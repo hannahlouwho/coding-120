@@ -1,0 +1,21 @@
+div{
+    color:green;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 36px;
+}  
+
+a{
+    color:red;
+}
+
+.yellow{
+    color:yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 56px;
+}
+
+#page2text{
+    color:maroon;
+    font-family: Tahoma;
+    font-size: 26px;
+}

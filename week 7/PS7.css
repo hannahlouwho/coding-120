@@ -1,0 +1,21 @@
+div{
+    color:green;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+a{
+    color:pink;
+}
+
+.yellow{
+    color:Black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+#page2text{
+    color:Grey;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}

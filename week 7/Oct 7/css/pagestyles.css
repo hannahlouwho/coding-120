@@ -1,0 +1,22 @@
+div{
+    color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 34px;
+
+}
+
+a{
+    color:pink;
+}
+
+.changeFontColor{
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+#changeById{
+    color:purple;
+    font-family: Tahoma;
+    font-size: 56px;
+}
